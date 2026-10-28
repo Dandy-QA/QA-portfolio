@@ -24,4 +24,4 @@
 Добавленные товары находятся в корзине, но при скролинге страницы сайта вниз, кнопка "Checkout" отсутствует (Нарушен UI). Кнопка "Checkout" находится вверху сайта.
 
 **Доказательство:**
-![Баг с кнопкой Checkout]()
+![Баг с кнопкой Checkout](https://github.com/Dandy-QA/QA-portfolio/blob/4f8303e44ce26c67b77780e0dc65118f5716c9de/screenshots/Checkout%20Button.png?raw=true)
