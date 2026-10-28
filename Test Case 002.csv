@@ -1,4 +1,0 @@
-﻿Step,Action,Test Data,Expected result
-1,Ввести логин в поле “Username”,standart_user,В поле отображается текст
-2,Ввести неверный пароль,secret_sauc,Пароль скрыт точками
-3,Нажать кнопку “login”,-,Переход не осуществляется. Появляется сообщение об ошибке: “Username and password do not match any user in this service”
