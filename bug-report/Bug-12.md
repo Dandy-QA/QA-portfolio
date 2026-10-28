@@ -25,4 +25,4 @@
 При введении данных, поле Last Name не валидно для заполнения. Вместо него изменяются данные в поле First Name.
 
 **Доказательство:**
-![Баг с Last Name]()
+![Баг с Last Name](https://github.com/Dandy-QA/QA-portfolio/blob/f638d6c3369b3a402768d54571915d0119d8cdf6/screenshots/Checkout%20Bug%20(Last%20Name%20not%20Valid).png?raw=true)
