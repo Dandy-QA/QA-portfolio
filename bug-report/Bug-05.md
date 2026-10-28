@@ -22,4 +22,4 @@
 **Фактический результат:** 
 Изображения не соответствуют названию и описанию товаров.
 
-![Баг с картинками]
+![Скриншот бага](https://github.com/Dandy-QA/QA-portfolio/blob/b5578d9c1720506a2b189ac35b1e0372b280f221/screenshots/Images%20not%20match%20the%20products.png?raw=true)
