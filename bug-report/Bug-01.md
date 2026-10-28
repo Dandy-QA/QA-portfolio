@@ -20,3 +20,5 @@
 
 **Фактический результат:** 
 Сообщение об ошибке является неинформативным. Пользователю не показывается, что именно введено некорректно.
+
+https://github.com/Dandy-QA/QA-portfolio/blob/a385ca58960bf67afa179c3b1ea3ec7431da5e8a/screenshots/Incorrect%20login%20message.png?raw=true
