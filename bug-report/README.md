@@ -4,18 +4,18 @@
 
 | ID | Модуль | Заголовок бага | Серьёзность | Приоритет | Статус |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| BUG-01 | Login | Неинформативное сообщение об ошибке при заполнении неверных данных | Minor | Low | Open |
-| BUG-02 | Login | Отсутствует подсказка для пользователя заблокированного аккаунта | Minor | High | Open |
-| BUG-03 | Login | Валидация полей происходит не последовательно | Trivial | Low | Fixed |
-| BUG-04 | Login | Сообщение об ошибке не исчезает после успешного входа | Trivial | Low | Open |
-| BUG-05 | Catalog | Изображения товаров не соответствуют названию | Major | High | Open |
-| BUG-06 | Catalog | Сортировка товаров в боковом меню не изменяется | Minor | Low | In Progress |
-| BUG-07 | Catalog | Кнопка "Remove" не изменяет своё состояние на "Add to Cart" | Major | Medium | Open |
-| BUG-08 | Catalog | Некорректное отображение верстки | Major | High | Open |
-| BUG-09 | Cart | Кнопка "Remove" в разделе не удаляет товар | Major | Medium | Open |
-| BUG-10 | Cart | Счетчик корзины не обновляется сразу после добавления товара | Minor | Medium | In Progress |
-| BUG-11 | Cart | Кнопка "Checkout" в разделе корзины находится не снизу списка товаров | Minor | Medium | Open |
-| BUG-12 | Checkout | Поле Last Name не валидно для заполнения при оформлении товаров | Critical | High | Open |
-| BUG-13 | Checkout | Заказ оформляется без ввода фамилии "Last Name" | Critical | High | Open |
-| BUG-14 | Checkout | Данные о цене остаются после оформления заказа при возврате на страницу корзины | Trivial | Low | Open |
+| BUG-01 | Login | [Неинформативное сообщение об ошибке при заполнении неверных данных](./Bug-01.md) | Minor | Low | Open |
+| BUG-02 | Login | [Отсутствует подсказка для пользователя заблокированного аккаунта](./Bug-02.md) | Minor | High | Open |
+| BUG-03 | Login | [Валидация полей происходит не последовательно](./Bug-03.md) | Trivial | Low | Fixed |
+| BUG-04 | Login | [Сообщение об ошибке не исчезает после успешного входа](./Bug-04.md) | Trivial | Low | Open |
+| BUG-05 | Catalog | [Изображения товаров не соответствуют названию](./Bug-05.md) | Major | High | Open |
+| BUG-06 | Catalog | [Сортировка товаров в боковом меню не изменяется](./Bug-06.md) | Minor | Low | In Progress |
+| BUG-07 | Catalog | [Кнопка "Remove" не изменяет своё состояние на "Add to Cart"](./Bug-07.md) | Major | Medium | Open |
+| BUG-08 | Catalog | [Некорректное отображение верстки](./Bug-08.md) | Major | High | Open |
+| BUG-09 | Cart | [Кнопка "Remove" в разделе не удаляет товар](./Bug-09.md) | Major | Medium | Open |
+| BUG-10 | Cart | [Счетчик корзины не обновляется сразу после добавления товара](./Bug-10.md) | Minor | Medium | In Progress |
+| BUG-11 | Cart | [Кнопка "Checkout" в разделе корзины находится не снизу списка товаров](./Bug-11.md) | Minor | Medium | Open |
+| BUG-12 | Checkout | [Поле Last Name не валидно для заполнения при оформлении товаров](./Bug-12.md) | Critical | High | Open |
+| BUG-13 | Checkout | [Заказ оформляется без ввода фамилии "Last Name"](./Bug-13.md) | Critical | High | Open |
+| BUG-14 | Checkout | [Данные о цене остаются после оформления заказа при возврате на страницу корзины](./Bug-14.md) | Trivial | Low | Open |
 
