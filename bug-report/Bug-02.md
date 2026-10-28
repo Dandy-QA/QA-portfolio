@@ -21,5 +21,4 @@
 **Фактический результат:** 
 Сообщение об ошибке (Epic sadface: Sorry, this user has been locked out.), появляется для пользователя. Войти в аккаунт невозможно, отсутствует пошаговая инструкция для пользователя.
 
-[Скриншот бага](https://github.com/Dandy-QA/QA-portfolio/blob/c0ff3f6504bdd42427cd39b9687d401e4e006528/screenshots/Blocked%20user.png?raw=true)
-
+![Скриншот бага]()
