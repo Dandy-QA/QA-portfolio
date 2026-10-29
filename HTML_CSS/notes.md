@@ -46,6 +46,7 @@
 *   `document.querySelector('h3').innerText` — вытаскивает текст из заголовков. Пришла ошибка: *Невозможно считать название, или текст отсутствует под <anonymous>*.
 *   `window.innerWidth` — показывает ширину окна в пикселях. Пришел успешный ответ: ширина окна **705 px**.
 *   `console.error` — (Тестовая ошибка). В консоли должна появиться красная строка с текстом. После отправки запроса, получаем ответ `ƒ error() { [native code] }`.
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/1780474f35bfafd489e7c1a545a9a520d3ecffb3/HTML_CSS/screenshots/Console_Comand.png?raw=true)
 
 ---
 
