@@ -77,4 +77,5 @@
     *   **Password:** `admin126` (вместо правильного `admin123`)
 *   **Результат:** В запросе `validate` видим статус **302 Found** — запрос перенаправлен. Во вкладке `Payload` видим, какие данные (`Login` / `Password`) были отправлены. Вход на сайт не выполнен. Видно соответствующее сообщение: **Invalid credentials**.
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/95b78510800c2f1fee9217a1e1766d2659c3cdcb/HTML_CSS/screenshots/Responce_codes_check_1.png?raw=true)
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/b9984875086dc4b80553e585964d5dfd4d3d7fdb/HTML_CSS/screenshots/Responce_codes_check_2.png?raw=true)
 
