@@ -77,7 +77,7 @@
 *   **Фактический результат:** Запрос выполнен успешно. Получен статус `204 No Content`. Запись удалена.
 
 **Доказательство (Скриншот):**
-![DELETE запрос](ВСТАВЬ_ССЫЛКУ_НА_КАРТИНКУ_DELETE)
+![DELETE запрос](https://github.com/Dandy-QA/QA-portfolio/blob/847a9477da4ad5d476a4f7dc941145a337ca651d/API/Screenshots/DELETE.png?raw=true)
 
 ---
 
