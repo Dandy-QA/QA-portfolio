@@ -49,7 +49,7 @@
 *   **Фактический результат:** Запрос выполнен успешно. Получен статус `200 OK`. Сервер вернул обновленные данные (`Ivan Updated`, `Senior QA`) и время обновления (`updatedAt`).
 
 **Доказательство (Скриншот):**
-![PUT запрос](ВСТАВЬ_ССЫЛКУ_НА_КАРТИНКУ_PUT)
+![PUT запрос](https://github.com/Dandy-QA/QA-portfolio/blob/7aea67861a16af36ad100e073436b87b20ea0f36/API/Screenshots/PUT.png?raw=true)
 
 ---
 
