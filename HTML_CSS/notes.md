@@ -55,6 +55,7 @@
 
 *   **Скриншот 1-2:** Перехожу на вкладку `Network`, на сайте ввожу Login и Password. Смотрю, какие запросы уходят, и нахожу `validate`. Захожу в запрос, вижу, что ушел POST-запрос со статусом **302 Found**. На вкладке `Payload` видно, что у нас есть токен, а также `Username` и `Password`. Однако на вкладке `Response` нет данных, так как контент недоступен из-за перенаправленного запроса.
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/b19d2adac08c5fd83bf7d5fe3505caaf46263d2a/HTML_CSS/screenshots/Login_and_password_1.png?raw=true)
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/aa05e9b392fa9a659c935780408dc5e9fcc2557e/HTML_CSS/screenshots/Login_and_Password_2.png?raw=true)
 
 ---
 
