@@ -30,6 +30,7 @@
 *   **Результат:** В DevTools во вкладке `Application` смотрю, что вход совершился с измененными данными, но ключ пользователя остался прежним: `"udPzp5tmK1qJ8SD5ih5TmI9iNvVEpV1lqd0luA2ddBE="`.
 *   **Вывод:** Пользователь может стать админом и зайти на его страницу, поменяв один из символов в ключе. **Это уязвимость!**
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/31969c596941ea63b9181a793daec9c9a33e7c7e/HTML_CSS/screenshots/LocalStorage_1.png?raw=true)
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/fd64c410a0fcf6a63a13ff7903beeaa9a5d097f2/HTML_CSS/screenshots/LocalStorage_2.png?raw=true)
 
 ---
 
