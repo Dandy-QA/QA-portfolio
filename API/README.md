@@ -13,7 +13,7 @@
 *   **Фактический результат:** Запрос выполнен успешно. Получен статус `200 OK`. В теле ответа пришел JSON с массивом данных (id, email, first_name, last_name, avatar).
 
 **Доказательство (Скриншот):**
-![GET запрос](ВСТАВЬ_ССЫЛКУ_НА_КАРТИНКУ_GET)
+![GET запрос](https://github.com/Dandy-QA/QA-portfolio/blob/a2932615d81d7daba2c99c9be615458ee16bab75/API/Screenshots/GET.png?raw=true)
 
 ---
 
