@@ -31,6 +31,7 @@
 *   **Вывод:** Пользователь может стать админом и зайти на его страницу, поменяв один из символов в ключе. **Это уязвимость!**
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/31969c596941ea63b9181a793daec9c9a33e7c7e/HTML_CSS/screenshots/LocalStorage_1.png?raw=true)
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/fd64c410a0fcf6a63a13ff7903beeaa9a5d097f2/HTML_CSS/screenshots/LocalStorage_2.png?raw=true)
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/4745f7c1f81d08a0b61eab2c1a1e9a5948854152/HTML_CSS/screenshots/LocalStorage_3.png?raw=true)
 
 ---
 
