@@ -16,6 +16,7 @@
 *   **Скриншот 1:** Совершен переход во вкладку `Elements` -> `Styles` -> `Padding`, где были стандартные значения (`0, 0, 5, 5`).
 *   **Скриншот 2:** Значения `Padding` были изменены на (`10, 0, 30, 90`). В итоге текст и данные съехали (на примере карточки данных сотрудника).
 *   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/f9727b3f6b0f82fbba0ccd308ffd233a37a0e1dd/HTML_CSS/screenshots/Before_changes.png?raw=true)
+*   ![Пример](https://github.com/Dandy-QA/QA-portfolio/blob/a3dcfd932b429de71b32ff2f5a7cec8970742a3a/HTML_CSS/screenshots/After_changes.png?raw=true)
 
 ---
 
