@@ -1,4 +1,4 @@
-# BUG-016: Ошибка 404 (Not Found) при обновлении страницы каталога (inventory.html)
+# BUG-16: Ошибка 404 (Not Found) при обновлении страницы каталога (inventory.html)
 
 **Модуль:** Catalog / Routing
 **Серьёзность:** Major
@@ -7,7 +7,7 @@
 **Дата:** 14.11.2026
 
 **Окружение:** 
-Браузер: Google Chrome, ОС: macOS/Windows.
+Браузер: Google Chrome 157.0.8103.79, Safari 26.5 (21624.2.5.11.4) ОС: macOS 26.5.1 (Tahoe)
 
 **Шаги воспроизведения:**
 1. Авторизоваться на сайте `www.saucedemo.com` под `standard_user`.
