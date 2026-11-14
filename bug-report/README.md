@@ -18,5 +18,5 @@
 | BUG-12 | Checkout | [Поле Last Name не валидно для заполнения при оформлении товаров](./Bug-12.md) | Critical | High | Open |
 | BUG-13 | Checkout | [Заказ оформляется без ввода фамилии "Last Name"](./Bug-13.md) | Critical | High | Open |
 | BUG-14 | Checkout | [Данные о цене остаются после оформления заказа при возврате на страницу корзины](./Bug-14.md) | Trivial | Low | Open |
-| BUG-15 | Login | [Ошибка Fetch failed при отправке логов](./bug-15-fetch-failed.md) | Minor | Low | Open |
-| BUG-16 | Catalog | [Ошибка 404 при обновлении страницы каталога](./bug-16-routing-404.md) | Major | High | Open |
+| BUG-15 | Login | [Ошибка Fetch failed при отправке логов](./bug-15.md) | Minor | Low | Open |
+| BUG-16 | Catalog | [Ошибка 404 при обновлении страницы каталога](./bug-16.md) | Major | High | Open |
