@@ -24,5 +24,6 @@
 Система сбора логов (логирования) должна работать корректно (возвращать статус `200 OK` или `202 Accepted`) и не выдавать критических ошибок в консоль браузера при штатной проверке неверного пароля. Отказоустойчивость системы логирования не должна влиять на чистоту консоли.
 
 **Доказательство:**
-![Ошибка Fetch failed в консоли](https://github.com/Dandy-QA/QA-portfolio/blob/41c1fbfa6046ceb647261bec25a60652c42eab9a/screenshots/Headers%20in%20wrong%20password.png?raw=true)
+![Headers JSON is failed](https://github.com/Dandy-QA/QA-portfolio/blob/41c1fbfa6046ceb647261bec25a60652c42eab9a/screenshots/Headers%20in%20wrong%20password.png?raw=true)
 ![Запрос в Network](https://github.com/Dandy-QA/QA-portfolio/blob/7c36683f24db0bc841ecd0d7eff2e0fe345e4c80/screenshots/Empty%20response%20with%20wrong%20pass.png?raw=true)
+![Ошибка Fetch failed в консоли]()
