@@ -22,4 +22,6 @@
 
 **Доказательство:**
 ![Ошибка 404 в Network](https://github.com/Dandy-QA/QA-portfolio/blob/9438546d67e4ca21466f2ebc144e773749a11987/screenshots/Inventory%20404%20headers.png?raw=true)
-![Просмотр вкладки Response](ВСТАВЬ_ССЫЛКУ_НА_СКРИНШОТ_CONSOLE)
+![Просмотр вкладки Response](https://github.com/Dandy-QA/QA-portfolio/blob/d4aa9cfb15d0beb0b0a87b6a852812a4cb3484f3/screenshots/404%20Response.png?raw=true)
+![Продолжение просмотра вкладки Response](https://github.com/Dandy-QA/QA-portfolio/blob/d4aa9cfb15d0beb0b0a87b6a852812a4cb3484f3/screenshots/Response%20continue.png?raw=true)
+![Ошибки в консоли и поиск кнопки](https://github.com/Dandy-QA/QA-portfolio/blob/d4aa9cfb15d0beb0b0a87b6a852812a4cb3484f3/screenshots/Searching%20in%20console%20button.png?raw=true)
