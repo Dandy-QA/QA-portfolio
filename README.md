@@ -1,5 +1,3 @@
-# QA-portfolio
-Manual QA Portfolio Saucedemo / Orangehrmlive, API, SQL
 # 👋 Привет! Я Junior QA Engineer
 
 Добро пожаловать в мое портфолио. Здесь собраны артефакты ручного тестирования (учебные проекты и реальный коммерческий заказ).
