@@ -28,5 +28,4 @@
 *   *Email:* [vorobevd@gmail.com](mailto:vorobevd@gmail.com)
 *   *Мое интерактивное портфолио (HTML-страница):* [https://dandy-qa.github.io/QA-portfolio/](https://dandy-qa.github.io/QA-portfolio/)
 *   **Email:** [vorobevd@gmail.com](mailto:vorobevd@gmail.com)
-* 
   
