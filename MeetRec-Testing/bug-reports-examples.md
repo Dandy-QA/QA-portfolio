@@ -31,7 +31,8 @@
 
 **Причина (анализ QA):** Вероятно, рассинхронизация состояния HTML5-аудио элемента с React-компонентом плеера или ошибка в обработчике событий `timeupdate`.
 
-![BUG-01 Example] (https://github.com/Dandy-QA/QA-portfolio/blob/5702b5ad6862124d934c8e9a4ca6891296198492/screenshots/Player%20not%20working.png?raw=true)
+**Доказательство (Скриншот):**
+![BUG-01]()
 ---
 
 ## BUG-02: Потеря данных (Невозможно сохранить заметку) (Critical)
