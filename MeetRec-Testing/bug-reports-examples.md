@@ -106,4 +106,4 @@
 
 **Доказательство (Скриншот):**
 
-![BUG-04]()
+![BUG-04](https://github.com/Dandy-QA/QA-portfolio/blob/b398202e4812005556a77c86b85e977266443cd2/screenshots/Critical%20error%20in%20chat.png?raw=true)
