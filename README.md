@@ -26,6 +26,6 @@
 ## 📫 Контакты
 *   *Telegram:* [@dn_vrbv](https://t.me/dn_vrbv)
 *   *Email:* [vorobevd@gmail.com](mailto:vorobevd@gmail.com)
-*   *Мое интерактивное портфолио (HTML-страница):* [https://dandy-qa.github.io/QA-portfolio/](https://dandy-qa.github.io/QA-
+*   *Мое интерактивное портфолио (HTML-страница):* [https://dandy-qa.github.io/QA-portfolio/](https://dandy-qa.github.io/QA-portfolio/)
 *   **Email:** [vorobevd@gmail.com](mailto:vorobevd@gmail.com)
-*   **Мое интерактивное портфолио (HTML-страница):** [https://dandy-qa.github.io/QA-portfolio/](https://dandy-qa.github.io/QA-portfolio/)
+  
