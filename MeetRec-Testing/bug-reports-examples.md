@@ -36,6 +36,7 @@
 ![BUG-01](https://github.com/Dandy-QA/QA-portfolio/blob/fd99a005b61612530e58cdcaa42c1a34484fdc03/screenshots/Player%20not%20working.png?raw=true)
 ![BUG-01](https://github.com/Dandy-QA/QA-portfolio/blob/0957604021565fe5f6143173c67823596359243d/screenshots/Player%20not%20working%202.png?raw=true)
 ![BUG-01](https://github.com/Dandy-QA/QA-portfolio/blob/9e5dcc917056521ada19bbff1a8ac1b6e6c6e191/screenshots/Player%20pause%20not%20working%203.png?raw=true)
+![BUG-01](https://github.com/Dandy-QA/QA-portfolio/blob/6dd5d68f398c900825c05eb04caed19bf6b8d056/screenshots/Player%20not%20working%204.png?raw=true)
 ---
 
 ## BUG-02: Потеря данных (Невозможно сохранить заметку) (Critical)
