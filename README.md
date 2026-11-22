@@ -14,11 +14,11 @@ Manual QA Portfolio Saucedemo / Orangehrmlive, API, SQL
 ### 2. Учебный проект: SauceDemo
 *   **Что делал:** Функциональное тестирование интернет-магазина. Написание чек-листов, тест-кейсов (включая E2E), поиск багов (UI/UX, логика, безопасность).
 *   **Инструменты:** DevTools, Jira (имитация Записи велись в Notion app), Postman.
-*   👉 [Чек-листы](./checklists/) | 👉 [Тест-кейсы](./test-case/) | 👉 [Баг-репорты](./bug-report/README.md)
+*   👉 [Чек-листы](./Practice-Saucedemo%20and%20Orahrmlive/checklists/) | 👉 [Тест-кейсы](.//Practice-Saucedemo%20and%20Orahrmlive/test-case/) | 👉 [Баг-репорты](.//Practice-Saucedemo%20and%20Orahrmlive/bug-report/README.md)
 
 ### 3. Тестирование API
 *   **Что делал:** Проверка CRUD-операций (GET, POST, PUT, PATCH, DELETE) на тренажере `reqres.in`.
-*   👉 [Коллекция запросов Postman](./API/README.md)
+*   👉 [Коллекция запросов Postman](.//Practice-Saucedemo%20and%20Orahrmlive/API/README.md)
 
 ## 🛠 Мои навыки и инструменты
 *   **Теория тестирования:** Техники тест-дизайна (граничные значения, классы эквивалентности, попарное), SDLC, жизненный цикл бага.
