@@ -14,7 +14,7 @@ Manual QA Portfolio Saucedemo / Orangehrmlive, API, SQL
 ### 2. Учебный проект: SauceDemo
 *   **Что делал:** Функциональное тестирование интернет-магазина. Написание чек-листов, тест-кейсов (включая E2E), поиск багов (UI/UX, логика, безопасность).
 *   **Инструменты:** DevTools, Jira (имитация Записи велись в Notion app), Postman.
-*   👉 [Чек-листы]() | 👉 [Тест-кейсы](https://github.com/Dandy-QA/QA-portfolio/tree/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/test-case) | 👉 [Баг-репорты](https://github.com/Dandy-QA/QA-portfolio/blob/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/bug-report/README.md)
+*   👉 [Чек-листы](https://github.com/Dandy-QA/QA-portfolio/tree/ee19a4d37b2d9a1e84481ac68f4861ea8daf1de4/Practice/checklists) | 👉 [Тест-кейсы](https://github.com/Dandy-QA/QA-portfolio/tree/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/test-case) | 👉 [Баг-репорты](https://github.com/Dandy-QA/QA-portfolio/blob/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/bug-report/README.md)
 
 ### 3. Тестирование API
 *   **Что делал:** Проверка CRUD-операций (GET, POST, PUT, PATCH, DELETE) на тренажере `reqres.in`.
