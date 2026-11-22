@@ -14,11 +14,11 @@ Manual QA Portfolio Saucedemo / Orangehrmlive, API, SQL
 ### 2. Учебный проект: SauceDemo
 *   **Что делал:** Функциональное тестирование интернет-магазина. Написание чек-листов, тест-кейсов (включая E2E), поиск багов (UI/UX, логика, безопасность).
 *   **Инструменты:** DevTools, Jira (имитация Записи велись в Notion app), Postman.
-*   👉 [Чек-листы](https://github.com/Dandy-QA/QA-portfolio/tree/507689ab8855ff18e3bcfa500270b56226bf9b95/Practice-Saucedemo%20and%20Orangehrlive/checklists) | 👉 [Тест-кейсы](https://github.com/Dandy-QA/QA-portfolio/tree/507689ab8855ff18e3bcfa500270b56226bf9b95/Practice-Saucedemo%20and%20Orangehrlive/test-case) | 👉 [Баг-репорты](https://github.com/Dandy-QA/QA-portfolio/blob/507689ab8855ff18e3bcfa500270b56226bf9b95/Practice-Saucedemo%20and%20Orangehrlive/bug-report/README.md)
+*   👉 [Чек-листы]() | 👉 [Тест-кейсы](https://github.com/Dandy-QA/QA-portfolio/tree/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/test-case) | 👉 [Баг-репорты](https://github.com/Dandy-QA/QA-portfolio/blob/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/bug-report/README.md)
 
 ### 3. Тестирование API
 *   **Что делал:** Проверка CRUD-операций (GET, POST, PUT, PATCH, DELETE) на тренажере `reqres.in`.
-*   👉 [Коллекция запросов Postman](https://github.com/Dandy-QA/QA-portfolio/blob/507689ab8855ff18e3bcfa500270b56226bf9b95/Practice-Saucedemo%20and%20Orangehrlive/API/README.md)
+*   👉 [Коллекция запросов Postman](https://github.com/Dandy-QA/QA-portfolio/blob/3d0f8f71d1af0206bb12f3591356026ded22e2d1/Practice/API/README.md)
 
 ## 🛠 Мои навыки и инструменты
 *   **Теория тестирования:** Техники тест-дизайна (граничные значения, классы эквивалентности, попарное), SDLC, жизненный цикл бага.
