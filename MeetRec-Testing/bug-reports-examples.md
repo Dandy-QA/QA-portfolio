@@ -81,6 +81,7 @@
 
 **Доказательство (Скриншот):**
 
+![BUG-03](https://github.com/Dandy-QA/QA-portfolio/blob/91ebca50a71ab785b9cb64268560c8918db3987c/screenshots/Photo%20more%20than%208%20mb.png?raw=true)
 ![BUG-03]()
 ---
 
